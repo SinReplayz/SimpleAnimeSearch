@@ -32,7 +32,7 @@ def find(answer):
                 if genre.lower().find(answer.lower()) != -1:
                     pick_list.append(anime)
                     continue
-        elif anime.description.lower().find(answer.lower()) != -1:
+        if anime.description.lower().find(answer.lower()) != -1:
             pick_list.append(anime)
     if pick_list == []:
         print("""\n
