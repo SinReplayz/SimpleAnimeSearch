@@ -49,30 +49,30 @@ new = Anime("Assasination Classroom", """Forget about homework and pop quizzes.
             The students of Class 3E have a far more important assignment: kill their teacher before the end of the year!
             A tentacle-d sensei that moves at Mach 20 is out to conquer the classroom after destroying seventy percent of the moon.
             In addition to reading, writing, and arithmetic, the murderous monster behind the lectern will teach his students everything he knows about the assassination game.
-            Should some eager beaver prove to be a quick study in killing, he or she will save Earth from extinction – and collect a hefty reward.""")
+            Should some eager beaver prove to be a quick study in killing, he or she will save Earth from extinction – and collect a hefty reward.""", ["Action", "Comedy", "Drama", "Sci_Fi"])
 anime_list.append(new)
 new = Anime("Promised Neverland", """The one adored as the mother is not the real parent.
             The people living here together are not actual siblings.
             The Gracefield House is where orphaned children live.
             An irreplaceable home where 38 siblings and Mom live happy lives, even with no blood relations.
-            However, their everyday life suddenly came to an abrupt end one day...""")
+            However, their everyday life suddenly came to an abrupt end one day...""", ["Action", "Drama", "Fantasy", "Sci_Fi", "Shonen", "Thriller"])
 anime_list.append(new)
 new = Anime("Naruto", """The Village Hidden in the Leaves is home to the stealthiest ninja.
-            But twelve years earlier, a fearsome Nine-tailed Fox terrorized the village before it was subdued and its spirit sealed within the body of a baby boy. naruto""")
+            But twelve years earlier, a fearsome Nine-tailed Fox terrorized the village before it was subdued and its spirit sealed within the body of a baby boy. naruto""", ["Action", "Shonen", "Fantasy"])
 anime_list.append(new)
 new = Anime("Food Wars", """Shokugeki no Soma centers on Yukihira Soma, a middle school student who is determined to surpass his father’s culinary skills.
             One day, his father decides to close down their family restaurant and hone his skills in Europe.
             Before leaving he enrolls Soma in an elite culinary school that is extremely difficult to enter with a graduation rate of only 10 percent.
-            Will Soma be able to improve his skills, or will the kitchen prove to be too hot?""")
+            Will Soma be able to improve his skills, or will the kitchen prove to be too hot?""", ["Action", "Comedy", "Shonen"])
 anime_list.append(new)
 new = Anime("Fire Force", """Tokyo is burning, and citizens are mysteriously suffering from spontaneous human combustion all throughout the city!
             Responsible for snuffing out this inferno is the Fire Force, and Shinra is ready to join their fight.
             Now, as part of Company 8, he’ll use his devil’s footprints to help keep the city from turning to ash!
-            But his past and a burning secret behind the scenes could set everything ablaze.""")
+            But his past and a burning secret behind the scenes could set everything ablaze.""", ["Action", "Shonen", "Fantasy", "Supernatural"])
 anime_list.append(new)
 new = Anime("Tokyo Ghoul", """Haise Sasaki has been tasked with teaching Qs Squad how to be outstanding investigators,
             but his assignment is complicated by the troublesome personalities of his students and his own uncertain grasp of his Ghoul powers.
-            Can he pull them together as a team, or will Qs Squad first assignment be their last?""")
+            Can he pull them together as a team, or will Qs Squad first assignment be their last?""", ["Action", "Drama", "Fantasy", "Shonen", "Supernatural", "Thriller"])
 anime_list.append(new)
 new = Anime("Fairy Tale", """The story follows a teenage girl named Lucy Heartfilla who is determined to join the notorious magical Fairy Tail Guild.
             During a daring rescue, she encounters Natsu who is part of the guild and eventually offers her a place.
